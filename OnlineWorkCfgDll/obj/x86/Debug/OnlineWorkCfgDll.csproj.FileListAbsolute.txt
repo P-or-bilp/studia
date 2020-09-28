@@ -1,0 +1,16 @@
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\bin\Debug\OnlineWorkCfgDll.exe.config
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.csprojResolveAssemblyReference.cache
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.Properties.Resources.resources
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.csproj.GenerateResource.Cache
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.fMain.resources
+D:\MES Client\OnlineWork\OnlineWorkCfgDll.pdb
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.pdb
+D:\MES Client\OnlineWork\OnlineWorkCfgDll.dll.config
+D:\MES Client\OnlineWork\OnlineWorkCfgDll.dll
+c:\users\20006912\documents\visual studio 2010\Projects\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.dll
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.csprojResolveAssemblyReference.cache
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.fMain.resources
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.Properties.Resources.resources
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.csproj.GenerateResource.Cache
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.dll
+E:\SVN code\Chroma\20200924\P30 OnlineWork\4-5 OnlineWorkCfgDll(執行)\OnlineWorkCfgDll\OnlineWorkCfgDll\obj\x86\Debug\OnlineWorkCfgDll.pdb
